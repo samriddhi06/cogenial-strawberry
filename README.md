@@ -1,4 +1,4 @@
 # cogenial-strawberry
-hey humans!
-i am the mixture of sugar and spice.
-but my favorites includes coffee and strawberries.
+Hey humans!
+I am the mixture of sugar and spice.
+And my favorites includes coffee and strawberries.
